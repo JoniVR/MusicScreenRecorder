@@ -1,0 +1,9 @@
+Package: me.jvr.letmerecordmymusic
+Name: LetMeRecordMyMusic
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Lets you record your screen/sound while playing songs in Apple Music.
+Maintainer: Joni Van Roost
+Author: Joni Van Roost
+Section: Tweaks
