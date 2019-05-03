@@ -1,5 +1,7 @@
 include $(THEOS)/makefiles/common.mk
 
+ARCHS = arm64 arm64e
+
 TWEAK_NAME = LetMeRecordMyMusic
 LetMeRecordMyMusic_FILES = Tweak.xm
 
